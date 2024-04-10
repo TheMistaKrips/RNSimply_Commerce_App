@@ -16,12 +16,15 @@ npm install
 For use in <h1>Expo</h1>
 
 ```sh
-npm install
+npx expo start
+```
+or
+
+```sh
+expo start android / ios
 ```
 
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
 
 ```sh
 make install
